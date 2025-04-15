@@ -6,7 +6,6 @@ int main(){
         int size = i*0.75;
         printf("<dimen name='text_size_%dsp'>%dsp</dimen>\n" , i , size);
         printf("<dimen name='size_%ddp'>%ddp</dimen>\n" , i , size);
-
     }
 
     return 0;

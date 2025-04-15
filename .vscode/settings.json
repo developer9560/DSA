@@ -3,6 +3,7 @@
         "basic01.C": "cpp",
         "basic02.C": "cpp",
         "basic03.C": "cpp",
-        "arryInput.C": "cpp"
+        "arryInput.C": "cpp",
+        "recuresion_01.C": "cpp"
     }
 }
