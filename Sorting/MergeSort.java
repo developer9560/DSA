@@ -41,8 +41,7 @@ public class MergeSort {
         mergeSort(arr, mid+1, r);
 
         merge(arr, l, mid, r); // this funtion merge the two arrays 
-
-    }
+    } 
 
     public static void main(String[] args){
         int arr[]={38, 27, 43, 3, 9, 82, 10};
