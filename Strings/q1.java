@@ -1,10 +1,34 @@
 public class q1 {
-    public static void main(String[] args){
-        String str = "abcd";
-        for(int i = 0; i < str.length(); i++){
-            for(int j = i; j < str.length(); j++){
-                System.out.println(str.substring(i, j + 1)); // substring() method to get the substring from index i to j
-            }
+    public static void main(String[] args) {
+        String s = "bb";
+        String str = "";
+        if (s.length() <= 1) {
+            System.out.println(s);
         }
+        String pal = "";
+        String rev = "";
+
+        for (int i = 0; i < s.length(); i++) {
+            for (int j = i + 1; j <= s.length(); j++) {
+                str = s.substring(i, j);
+
+            }
+
+            for (int k = 0; k < str.length(); k++) {
+                char ch = str.charAt(k);
+                rev = ch + rev;
+            }
+
+            if (str.equals(rev)) {
+                if (str.length() >= pal.length()) {
+                    pal = str;
+                }
+            }
+            rev = "";
+            str = "";
+
+        }
+        System.out.println(pal);
+
     }
 }
