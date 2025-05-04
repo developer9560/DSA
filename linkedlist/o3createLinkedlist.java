@@ -106,6 +106,7 @@ public class o3createLinkedlist {
             }else if(idx==0){
                 head=head.next;
                 temp.next=null;
+                size--;
                 return;
             }
             for(int i = 0; i<idx-1;i++){
@@ -158,7 +159,6 @@ public class o3createLinkedlist {
             return count;
         }
     }
-
     public static void main(String[] args) {
         linkedlist lk = new linkedlist();
         lk.insertAtEnd(10);
@@ -174,7 +174,6 @@ public class o3createLinkedlist {
         // lk.deleteAtStart();
         // lk.deleteAtEnd();
         // lk.deleteAtIndex(2);
-
         lk.display();
         System.out.println(lk.tail.data);
     }
