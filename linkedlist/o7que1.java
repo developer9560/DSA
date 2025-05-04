@@ -22,7 +22,7 @@ public class o7que1 {
             size++;
             temp = temp.next;
         }
-        int m = size - n + 1;
+        int m = size - n + 1; 
         temp = head;
         for (int i = 0; i < m - 1; i++) {
             temp = temp.next;
