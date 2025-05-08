@@ -39,7 +39,5 @@ public class o10reverseLinkedlinst {
         }
         head=prevNode;
         display(head);
-         
-
     }
 }
