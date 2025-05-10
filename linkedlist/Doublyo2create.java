@@ -105,6 +105,7 @@ public class Doublyo2create {
             head.next= null;
             temp.prev=null;
             head= temp;
+            size--;
         }
         void deleteAtEnd(){
             if(head==null || tail==null){
@@ -113,9 +114,33 @@ public class Doublyo2create {
             }
             tail = tail.prev;
             tail.next = null;
+            size--;
         }
-        void deleteAtIndex(){
-            
+        void deleteAtIndex(int idx){
+            if(idx==0){
+                deleteAtStart();
+                return;
+            }
+            if(size==idx){
+                deleteAtEnd();
+                return;
+            }
+            if(idx>size){
+                System.out.println("Indext not exits , size is :"+ size);
+                return;
+            }
+            Node temp = head;
+            for(int i = 0 ;i<idx -1; i++){
+                temp = temp.next;
+            }
+            Node idxNode = temp.next;
+            Node aglaNode = temp.next.next;
+            idxNode.next= null;
+            idxNode.prev = null;
+            temp.next= aglaNode;
+            aglaNode.prev= temp;
+            size--;
+
         }
     }
     public static void main(String[] args) {
@@ -125,13 +150,16 @@ public class Doublyo2create {
         l.insertAtEnd(30);
         l.insertAtStart(80);
         l.insertAtIndex(100, 1);
-        l.deleteAtStart();
+        // l.deleteAtStart();
         l.getTail();
-        l.deleteAtEnd();
+        // l.deleteAtEnd();
         l.getHead();
         l.display();
         l.displayRev();
-        l.getTail();
+        l.deleteAtIndex(10);
+        l.display();
+        l.displayRev();
+        // l.getTail();
         
     }
 
