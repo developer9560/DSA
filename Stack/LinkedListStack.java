@@ -36,13 +36,37 @@ public class LinkedListStack {
             return temp;
         }
 
+        int size(){
+            return size;
+        }
+
+        void display(){
+            Node temp = top;
+            while(temp!=null){
+                System.out.print(temp.data+" ");
+                temp=temp.next;
+            }
+            System.out.println();
+        }
+
+        int peek(){
+            return top.data;
+        }
+        
+        boolean isEmpty(){
+            return top==null;
+        }
     }
 
     public static void main(String[] args) {
         stack st = new stack();
         st.push(10);
         st.push(20);
-        // st.display();
+        st.push(30);
+        st.pop();
+        st.display();
+        System.out.println(st.peek());
+        System.out.println(st.size());
 
     }
 
