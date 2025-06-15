@@ -40,12 +40,25 @@ public class LinkedListStack {
             return size;
         }
 
+        void displayrev(Node node){
+            if(node==null){
+                return;
+            }
+            displayrev(node.next);
+            System.out.print(node.data+" ");
+        }
+
         void display(){
             Node temp = top;
             while(temp!=null){
                 System.out.print(temp.data+" ");
                 temp=temp.next;
             }
+            System.out.println();
+        }
+
+        void displayrev(){
+            displayrev(top);
             System.out.println();
         }
 
@@ -63,8 +76,11 @@ public class LinkedListStack {
         st.push(10);
         st.push(20);
         st.push(30);
-        st.pop();
+        st.push(40);
+        st.push(50);
+        // st.pop();
         st.display();
+        st.displayrev();
         System.out.println(st.peek());
         System.out.println(st.size());
 
