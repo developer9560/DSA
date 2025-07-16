@@ -85,7 +85,4 @@ public class LinkedListStack {
         System.out.println(st.size());
 
     }
-
-    
-
 }
