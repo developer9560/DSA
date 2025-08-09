@@ -14,9 +14,7 @@ public class revisionMaxMin {
         }
         
         return new int[]{max, min};
-
     }
-
 
     public static void main(String[] args){
         int[] arr = {3, 5, 1, 8, 2, 7};
@@ -27,5 +25,4 @@ public class revisionMaxMin {
         System.out.println("Minimum value: " + result[1]);
     }
 
-    
 }

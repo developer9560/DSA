@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6a0bb06-53a8-4d79-9575-0c7101613c49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Array/Subarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/findRepeatingInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/reverseArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/rotateArraybyKSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/simpleSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/zeroAndOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/EvenSumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/EvenSumSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/FreQueArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/FreQueArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/largest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Array/largest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/largest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/largest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/revisionMaxMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/revisionMaxMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/tempCodeRunnerFile.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arraylist/intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arraylist/intro_arraylist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graphs/intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Graphs/intro_graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/PrintArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/PrintArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpperTriangularPatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/UpperTriangularPatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/floyds_triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/floyds_triangles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hollow_patterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/hollow_patterns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops" beforeDir="false" afterPath="$PROJECT_DIR$/loops" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/AlternatingSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/loops/AlternatingSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/butterfly_pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/loops/butterfly_pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/countdigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/loops/countdigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/floyds_triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/loops/floyds_triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/half_pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/loops/half_pyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/hollowPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/loops/hollowPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/inverted_half_pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/loops/inverted_half_pyramid1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/opposite_half_pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/loops/opposite_half_pyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/loops/pyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/rectangularPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/loops/rectangularPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/reverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/loops/reverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/solid_patterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/loops/solid_patterns1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/squarepatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/loops/squarepatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/zero_one_triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/loops/zero_one_triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onetoSevenNumericalPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/onetoSevenNumericalPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/sumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tringularPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/tringularPattern.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="30BqiJca8AS13C1T4B773IxQt9J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AddMatrix.executor": "Run",
+    "Application.EvenSumSubarray.executor": "Run",
+    "Application.FreQueArray.executor": "Run",
+    "Application.Subarray.executor": "Run",
+    "Application.findRepeatingInteger.executor": "Run",
+    "Application.reverseArray2.executor": "Run",
+    "Application.rotateArraybyKSteps.executor": "Run",
+    "Application.secondThird.executor": "Run",
+    "Application.simpleSearch.executor": "Run",
+    "Application.swap.executor": "Run",
+    "Application.test.executor": "Run",
+    "Application.zeroAndOne.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Subarray">
+    <configuration name="FreQueArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.FreQueArray" />
+      <module name="Desktop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Subarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Subarray" />
+      <module name="Desktop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverseArray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.reverseArray2" />
+      <module name="Desktop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rotateArraybyKSteps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.rotateArraybyKSteps" />
+      <module name="Desktop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zeroAndOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.zeroAndOne" />
+      <module name="Desktop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Subarray" />
+        <item itemvalue="Application.zeroAndOne" />
+        <item itemvalue="Application.FreQueArray" />
+        <item itemvalue="Application.rotateArraybyKSteps" />
+        <item itemvalue="Application.reverseArray2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6a0bb06-53a8-4d79-9575-0c7101613c49" name="Changes" comment="" />
+      <created>1753111449023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753111449023</updated>
+      <workItem from="1753111451376" duration="37000" />
+      <workItem from="1753111844372" duration="304000" />
+    </task>
+    <servers />
+  </component>
+</project>

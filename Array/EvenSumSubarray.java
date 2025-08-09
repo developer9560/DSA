@@ -1,3 +1,5 @@
+package Array;
+
 public class EvenSumSubarray {
     static void countPartitions(int[] nums) {
         int count = 0;

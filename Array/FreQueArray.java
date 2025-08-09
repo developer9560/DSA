@@ -1,4 +1,4 @@
-// given Q queries, check is the given number is present in the array or not
+package Array;// given Q queries, check is the given number is present in the array or not
 // Note: value of all th element in the array is less than 10 to power 5;
 
 import java.util.Scanner;
