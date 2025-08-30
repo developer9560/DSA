@@ -4,6 +4,20 @@ import org.w3c.dom.ls.LSOutput;
 import java.util.Scanner;
 
 public class Subarray {
+
+    static void PrintAllSubArray(int[] arr){
+        for(int i = 0 ; i<arr.length; i++){
+            for(int j = i ; j<arr.length; j++){
+                for(int k = i ; k<j+1;k++){
+                    System.out.print(arr[k]+" ");
+                }
+                System.out.println();
+            }
+
+        }
+    }
+
+
     public static void main(String[] args) {
         int[] arr = {1,2,3,4,5,6,7,8,9};
         Scanner sc = new Scanner(System.in);
@@ -40,6 +54,9 @@ public class Subarray {
             }
         }
         System.out.println(max);
+
+        int[] a ={1,2,3,4,5};
+        PrintAllSubArray(a);
 
 
 
